@@ -1,0 +1,6 @@
+bottle==0.12.25
+eel==0.17.0
+pandas==2.2.2
+PyInstaller==6.10.0
+Requests==2.32.3
+setuptools==74.0.0
